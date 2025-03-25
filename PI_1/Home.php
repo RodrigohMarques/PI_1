@@ -19,6 +19,60 @@
             background-color: rgba(0,0,0,0.6);
             padding:30px;
             border-radius: 10px;
+        }    }
+        .box{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: rgba(0,0,0,0.6);
+            padding:30px;
+            border-radius: 10px;
+        }    }
+        .box{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: rgba(0,0,0,0.6);
+            padding:30px;
+            border-radius: 10px;
+        }    }
+        .box{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: rgba(0,0,0,0.6);
+            padding:30px;
+            border-radius: 10px;
+        }    }
+        .box{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: rgba(0,0,0,0.6);
+            padding:30px;
+            border-radius: 10px;
+        }    }
+        .box{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: rgba(0,0,0,0.6);
+            padding:30px;
+            border-radius: 10px;
+        }    }
+        .box{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: rgba(0,0,0,0.6);
+            padding:30px;
+            border-radius: 10px;
         }
         a{
             text-decoration:none;
